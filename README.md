@@ -17,7 +17,7 @@ Required submission:
   2) a link to a Github repository with your script for performing the analysis 
   3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data           called CodeBook.md.  
 
- A full of the data used description is available at the site where the data was obtained:
+ A full  description of the data used is available at the site where the data was obtained:
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
